@@ -1,31 +1,15 @@
-.tribute {
-    background: url('') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    color:#fff;
-    background-color:#333;
-    font-family: 'Open Sans', Arial, Helvetica, Sans-Serif;
-}
-.nopadding {
-   padding: 0 !important;
-   margin: 0 !important;
-}
-.navbar {
-  padding: 35px 0px 35px 0px;
-  letter-spacing: 5px;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 15px;
+a {
+  color: #333;
+  text-decoration: none;
 }
 
-.navtext {
-  letter-spacing: 3px;
-  font-family: 'Montserrat', sans-serif;
+a:hover {
+  color: #6e6e6e;
+  text-decoration: none;
 }
+
 body { 
   font-family: 'Crimson Text', serif;
-  
 }
 
 .bioleft {
@@ -43,14 +27,15 @@ body {
   letter-spacing: 4px;
   padding: 395px 0px 0px 0px; 
 }
+
 .biotext {
   padding: 10px 0px 0px 0px; 
   font-family: 'Crimson Text', serif;
   font-size: 19px;
   color: #fff;
   letter-spacing: 1px;
-  
 }
+
 .biotextright {
   color: #fff;
   padding: 0px 0px 0px 0px; 
@@ -60,30 +45,54 @@ body {
 }
 
 .footer {
-  color: #fff;
-  background-color: #000;
-  font-family: 'Crimson Text', serif;
-  font-size: 18px;
+  background-color: #ececec;
+  color: #313434;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 11px;
   letter-spacing: 2px;
-  padding: 100px 100px 200px 100px;
-
+  padding: 30px 45px 30px 45px;
 }
 
 .footer2 {
-  color: #fff;
-  font-family: 'Crimson Text', serif;
-  font-size: 18px;
+  color: #313434;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 11px;
   letter-spacing: 2px;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
 }
 
 .navbar {
   background-color: #fff;
+  padding: 35px 0px 35px 0px;
+  letter-spacing: 5px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+}
+
+.navtext {
+  letter-spacing: 3px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .thumbnail {
   background: #fff;
   padding: 100px 0px 100px 0px;
 }
+
+/*.tribute {
+    background: url('') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color:#fff;
+    background-color:#333;
+    font-family: 'Open Sans', Arial, Helvetica, Sans-Serif;
+}*/
 
 .work {
   background: #fff;
