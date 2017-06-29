@@ -76,6 +76,10 @@ body {
   letter-spacing: 2px;
 }
 
+.navbar {
+  background-color: #fff;
+}
+
 .thumbnail {
   background: #fff;
   padding: 100px 0px 100px 0px;
