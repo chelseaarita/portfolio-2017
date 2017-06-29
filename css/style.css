@@ -79,8 +79,9 @@ body {
 }
 
 .thumbnail {
-  background: #fff;
-  padding: 100px 0px 100px 0px;
+  border: 0 none;
+  box-shadow: none;
+  padding: 10px 30px 50px 20px;
 }
 
 /*.tribute {
@@ -96,7 +97,9 @@ body {
 
 .work {
   background: #fff;
-  padding: 100px 100px 100px 100px;
+  padding: 30px 100px 100px 100px;
+  letter-spacing: 3px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 
