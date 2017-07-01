@@ -32,14 +32,16 @@ p {
 
 .chelsea {
   background-color: #fff;
-  padding: 100px 300px 100px 300px;
+  padding: 200px 300px 200px 300px;
+  font-family: 'Crimson Text', serif;
+  font-size: 18px;
 }
 
 .chelseafirstline {   
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   letter-spacing: 2px;
-  padding: 50px 0px 0px 0px; 
+  padding: 0px 0px 0px 0px; 
 
 }
 .nounderline {
