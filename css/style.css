@@ -291,7 +291,7 @@ html {
   border-radius: 5px; 
 }
 .wrapper .column:nth-child(1) .inner {
-  background-image: url('https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/11055800_1556880671238497_1776548525_n.jpg');
+  background-image: url('../img/1-on.jpg');
 }
 .wrapper .column:nth-child(2) .inner {
   background-image: url('https://igcdn-photos-h-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11055816_932624596782983_529466754_n.jpg');
