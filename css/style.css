@@ -55,9 +55,10 @@ p {
 .chelsea {
   background: url('../img/bg.png') fixed;
   background-color: #fff;
-  padding: 200px 300px 200px 300px;
+  padding: 150px 300px 150px 300px;
   font-family: 'Crimson Text', serif;
   font-size: 18px;
+  letter-spacing: .5px;
 }
 
 .chelseafirstline {   
@@ -135,6 +136,7 @@ p {
 .navtext {
   letter-spacing: 3px;
   font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
 }
 
 .thumbnail {
